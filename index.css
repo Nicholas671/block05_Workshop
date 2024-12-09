@@ -1,0 +1,10 @@
+body {
+    background-color: forestgreen;
+}
+
+.center {
+    display: block;
+    margin-left: left;
+    margin-right: auto;
+    width: 25%;
+}
